@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ravindran M</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=RAVINDRAN%20M&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn"
+    alt="Ravindran M banner"
+  />
+</p>
 
 <h3 align="center">
-AI/ML • Generative AI • LLM Security • Computer Vision • Software Engineering
+  AI/ML • Generative AI • LLM Security • Computer Vision • Software Engineering
 </h3>
 
 <p align="center">
@@ -17,86 +22,74 @@ AI/ML • Generative AI • LLM Security • Computer Vision • Software Engine
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=820&lines=Building+production-oriented+AI+systems;Exploring+Generative+AI+%26+LLM+Security;Machine+Learning+%7C+Computer+Vision+%7C+Blockchain;FastAPI+%7C+Docker+%7C+MLOps+%7C+Cloud" alt="Typing animation"/>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=820&lines=Building+production-oriented+AI+systems;Exploring+Generative+AI+%26+LLM+Security;Machine+Learning+%7C+Computer+Vision+%7C+Blockchain;FastAPI+%7C+Docker+%7C+MLOps+%7C+Cloud"
+    alt="Professional animated introduction"
+  />
 </p>
-
-🚀 Introduction
-
-I am a Five-Year Integrated M.Tech Computer Science Engineering student at Sri Ramakrishna Engineering College, graduating in 2027, with hands-on experience building practical and production-oriented intelligent systems.
-
-My work spans Machine Learning, Deep Learning, Generative AI, LLM Security, Computer Vision, Blockchain, and backend engineering. I enjoy taking ideas from model development to deployable applications using technologies such as Python, FastAPI, Docker, Redis, PostgreSQL, GitHub Actions, MLflow, and AWS.
-
-I have worked on systems for fraud detection, AI-agent security, forecasting, digital evidence management, and real-time edge vision, with a strong focus on performance, explainability, reliability, and deployment.
-
-🎯 Career Focus: AI/ML Engineering • Generative AI • Software Engineering • Backend Development • Cloud
 
 🧐 More About Me
 
-🔭 Building practical systems across AI/ML, Generative AI, LLM Security, and Computer Vision
+🎓 Currently pursuing a Five-Year Integrated M.Tech in Computer Science Engineering at Sri Ramakrishna Engineering College.
 
-🧠 Interested in reliable, explainable, and deployable AI systems
+🤖 Interested in Artificial Intelligence, Machine Learning, Generative AI, and RAG.
 
-⚙️ Enjoy building APIs, microservices, dashboards, and ML pipelines
+💻 Passionate about building practical software and AI-based projects that solve real-world problems.
 
-🚀 Comfortable working across development, deployment, monitoring, and performance optimization
+☁️ Currently learning and exploring AWS Cloud Computing.
 
-☁️ Exploring AWS Cloud and modern cloud-based AI applications
+🚀 My goal is to grow as an AI/ML Engineer and Software Developer by continuously building, learning, and experimenting.
 
-🤝 Interested in collaborating on meaningful AI/ML and software engineering projects
+🛠️ Tech Stack
 
-🌐 Portfolio: ravindranportfolio.netlify.app
+💻 Programming
 
-💼 LinkedIn: Ravindran M
-
-🛠️ Languages & Tools
-
-Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql" alt="Python, Java, MySQL"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" alt="Programming technologies"/>
 </p>
 
-AI / Machine Learning
+🤖 AI & Machine Learning
 
-LSTM Autoencoders Graph Neural Networks XGBoost LightGBM Prophet SHAP Feature Engineering Model Evaluation
-
-Generative AI / NLP
-
-LLMs RAG LLM Security Multi-Agent Systems Groq API Hugging Face Semantic Embeddings Sentiment Analysis
-
-Computer Vision / Edge AI
-
-OpenCV YOLOv8 TinyML Object Detection Real-Time Detection ESP32-CAM
-
-Blockchain & Security
-
-Blockchain Architecture SHA-256 Cryptographic Hashing Digital Forensics Role-Based Authentication Chain-of-Custody
-
-Backend / DevOps / MLOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,redis,postgres,docker,githubactions" alt="FastAPI, Redis, PostgreSQL, Docker, GitHub Actions"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 </p>
 
-Microservices REST APIs CI/CD MLflow Performance Optimization
+Machine Learning • Deep Learning • Generative AI • RAG
 
-Frontend / Cloud / Tools
+🌐 Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,aws,git,github,vscode" alt="React, HTML, CSS, JavaScript, AWS, Git, GitHub, VS Code"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web technologies"/>
 </p>
 
-Streamlit WebSockets Render Vercel Jupyter Notebook Figma
+REST APIs • Web Development
+
+☁️ Cloud & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="Cloud and development tools"/>
+</p>
 
 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ravindran-007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ravindran's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindran-007&layout=compact&theme=tokyonight&hide_border=true" alt="Ravindran's top languages"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Ravindran-007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Ravindran's GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindran-007&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Ravindran's most used languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ravindran-007&theme=tokyonight&hide_border=true" alt="Ravindran's GitHub contribution streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Ravindran-007&theme=tokyonight&hide_border=true"
+    alt="Ravindran's GitHub contribution streak"
+  />
 </p>
 
 🎯 2026–2027 Goals
@@ -119,13 +112,22 @@ Streamlit WebSockets Render Vercel Jupyter Notebook Figma
 
 <p align="center">
   <a href="https://ravindranportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge" alt="Portfolio"/>
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
   <a href="https://www.linkedin.com/in/ravindran-m-0395b7264/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ravindran%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Ravindran%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://github.com/Ravindran-007">
-    <img src="https://img.shields.io/badge/GitHub-Ravindran--007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-Ravindran--007-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
@@ -134,5 +136,8 @@ Streamlit WebSockets Render Vercel Jupyter Notebook Figma
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" alt="Profile footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"
+    alt="Profile footer"
+  />
 </p>
