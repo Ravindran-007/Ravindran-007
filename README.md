@@ -1,108 +1,102 @@
-<!-- PROFILE HEADER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Ravindran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Ravindran profile header"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Ravindran</h1>
+<h1 align="center">Hi 👋, I'm Ravindran M</h1>
 
 <h3 align="center">
-  Integrated M.Tech CSE Student • AI/ML Enthusiast • Generative AI Learner
+AI/ML • Generative AI • LLM Security • Computer Vision • Software Engineering
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+practical+AI+%26+software+solutions;Exploring+Generative+AI+%26+RAG;Learning+Machine+Learning+%26+AWS;Turning+ideas+into+working+projects" alt="Typing animation"/>
+  <a href="https://ravindranportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2ea44f?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ravindran-m-0395b7264/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Ravindran-007">
+    <img src="https://img.shields.io/badge/GitHub-Ravindran--007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ravindran-007">
-    <img src="https://img.shields.io/github/followers/Ravindran-007?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/Ravindran-007?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" alt="View repositories"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=820&lines=Building+production-oriented+AI+systems;Exploring+Generative+AI+%26+LLM+Security;Machine+Learning+%7C+Computer+Vision+%7C+Blockchain;FastAPI+%7C+Docker+%7C+MLOps+%7C+Cloud" alt="Typing animation"/>
 </p>
 
-👨‍💻 About Me
+🚀 Introduction
 
-🎓 Currently pursuing a Five-Year Integrated M.Tech in Computer Science Engineering at Sri Ramakrishna Engineering College.
+I am a Five-Year Integrated M.Tech Computer Science Engineering student at Sri Ramakrishna Engineering College, graduating in 2027, with hands-on experience building practical and production-oriented intelligent systems.
 
-🤖 Interested in Artificial Intelligence, Machine Learning, Generative AI, and RAG.
+My work spans Machine Learning, Deep Learning, Generative AI, LLM Security, Computer Vision, Blockchain, and backend engineering. I enjoy taking ideas from model development to deployable applications using technologies such as Python, FastAPI, Docker, Redis, PostgreSQL, GitHub Actions, MLflow, and AWS.
 
-💻 Passionate about building practical software and AI-based projects that solve real-world problems.
+I have worked on systems for fraud detection, AI-agent security, forecasting, digital evidence management, and real-time edge vision, with a strong focus on performance, explainability, reliability, and deployment.
 
-☁️ Currently learning and exploring AWS Cloud Computing.
+🎯 Career Focus: AI/ML Engineering • Generative AI • Software Engineering • Backend Development • Cloud
 
-🚀 My goal is to grow as an AI/ML Engineer and Software Developer by continuously building, learning, and experimenting.
+🧐 More About Me
 
-🧑‍💻 Developer Snapshot
+🔭 Building practical systems across AI/ML, Generative AI, LLM Security, and Computer Vision
 
-┌──────────────────────────────────────────────────────┐
-│                    RAVINDRAN                         │
-├──────────────────────────────────────────────────────┤
-│ 🎓 Education     : Integrated M.Tech CSE             │
-│ 📍 Institution    : Sri Ramakrishna Engineering      │
-│                     College                          │
-│                                                      │
-│ 🤖 Interests     : AI / ML / Generative AI / RAG     │
-│ 💻 Programming   : Python / Java / C / SQL           │
-│ ☁️ Cloud         : AWS                               │
-│ 🔧 Tools         : Git / GitHub / VS Code            │
-│                                                      │
-│ 🚀 Currently     : Building & Learning               │
-│ 🎯 Goal          : AI/ML & Software Engineering      │
-└──────────────────────────────────────────────────────┘
+🧠 Interested in reliable, explainable, and deployable AI systems
 
-🛠️ Tech Stack
+⚙️ Enjoy building APIs, microservices, dashboards, and ML pipelines
 
-💻 Programming
+🚀 Comfortable working across development, deployment, monitoring, and performance optimization
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" alt="Programming technologies"/>
+☁️ Exploring AWS Cloud and modern cloud-based AI applications
+
+🤝 Interested in collaborating on meaningful AI/ML and software engineering projects
+
+🌐 Portfolio: ravindranportfolio.netlify.app
+
+💼 LinkedIn: Ravindran M
+
+🛠️ Languages & Tools
+
+Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" alt="Python, Java, MySQL"/>
 </p>
 
-🤖 AI & Machine Learning
+AI / Machine Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+LSTM Autoencoders Graph Neural Networks XGBoost LightGBM Prophet SHAP Feature Engineering Model Evaluation
+
+Generative AI / NLP
+
+LLMs RAG LLM Security Multi-Agent Systems Groq API Hugging Face Semantic Embeddings Sentiment Analysis
+
+Computer Vision / Edge AI
+
+OpenCV YOLOv8 TinyML Object Detection Real-Time Detection ESP32-CAM
+
+Blockchain & Security
+
+Blockchain Architecture SHA-256 Cryptographic Hashing Digital Forensics Role-Based Authentication Chain-of-Custody
+
+Backend / DevOps / MLOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,redis,postgres,docker,githubactions" alt="FastAPI, Redis, PostgreSQL, Docker, GitHub Actions"/>
 </p>
 
-Machine Learning • Deep Learning • Generative AI • RAG
+Microservices REST APIs CI/CD MLflow Performance Optimization
 
-🌐 Development
+Frontend / Cloud / Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web technologies"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,aws,git,github,vscode" alt="React, HTML, CSS, JavaScript, AWS, Git, GitHub, VS Code"/>
 </p>
 
-REST APIs • Web Development
-
-☁️ Cloud & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="Cloud and development tools"/>
-</p>
+Streamlit WebSockets Render Vercel Jupyter Notebook Figma
 
 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Ravindran-007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Ravindran's GitHub statistics"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindran-007&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Ravindran's most used languages"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ravindran-007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ravindran's GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindran-007&layout=compact&theme=tokyonight&hide_border=true" alt="Ravindran's top languages"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Ravindran-007&theme=tokyonight&hide_border=true"
-    alt="Ravindran's GitHub contribution streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Ravindran-007&theme=tokyonight&hide_border=true" alt="Ravindran's GitHub contribution streak"/>
 </p>
 
 🎯 2026–2027 Goals
@@ -124,31 +118,21 @@ REST APIs • Web Development
 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Ravindran-007">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+  <a href="https://ravindranportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ravindran-m-0395b7264/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Ravindran%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Ravindran-007">
+    <img src="https://img.shields.io/badge/GitHub-Ravindran--007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <i>"Learning. Building. Improving. 🚀"</i>
+  <i>Building intelligent systems • Learning continuously • Solving real-world problems 🚀</i>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer"
-    alt="Profile footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" alt="Profile footer"/>
 </p>
