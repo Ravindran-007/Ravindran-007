@@ -1,10 +1,12 @@
-👋 Hi, I'm Ravindran M
+<h1 align="center">Hey 👋, I'm Ravindran M</h1>
 
-Integrated M.Tech CSE Student | AI/ML | Generative AI | LLM Security
+<h3 align="center">
+Integrated M.Tech CSE Student • AI/ML • Generative AI • LLM Security
+</h3>
 
 <p align="center">
   <a href="https://ravindranportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2ea44f?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ravindran-m-0395b7264/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,178 +17,176 @@ Integrated M.Tech CSE Student | AI/ML | Generative AI | LLM Security
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+production-grade+AI+systems;Exploring+Generative+AI+%26+LLM+Security;Machine+Learning+%7C+Computer+Vision+%7C+Blockchain;FastAPI+%7C+Docker+%7C+AWS+%7C+MLOps" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=820&lines=Building+production-oriented+AI+systems;Exploring+Generative+AI+%26+LLM+Security;Machine+Learning+%7C+Computer+Vision+%7C+Blockchain;FastAPI+%7C+Docker+%7C+MLOps+%7C+Cloud" alt="Typing animation"/>
 </p>
 
 👨‍💻 About Me
 
 I am currently pursuing a Five-Year Integrated M.Tech in Computer Science Engineering at Sri Ramakrishna Engineering College, with an expected graduation year of 2027.
 
-I enjoy building production-oriented intelligent systems across Machine Learning, Deep Learning, Computer Vision, Generative AI, LLM Security, and secure software systems.
+I enjoy turning ideas into practical systems across Machine Learning, Deep Learning, Generative AI, LLM Security, Computer Vision, and secure software engineering.
 
-My work focuses on turning ideas into practical applications — from fraud detection and forecasting platforms to AI-agent security, blockchain evidence management, and edge computer vision.
+My projects focus on more than model training — I like working across the full engineering lifecycle, including APIs, databases, deployment, explainability, monitoring, performance optimization, CI/CD, and MLOps.
 
-I am especially interested in building reliable AI systems with strong backend engineering, deployment, explainability, monitoring, and performance optimization.
+I am currently preparing for opportunities in AI/ML Engineering, Generative AI, Backend/Software Engineering, and Cloud.
 
-🧑‍💻 Developer Snapshot
+🧐 More About Me
 
-┌────────────────────────────────────────────────────────┐
-│                      RAVINDRAN M                       │
-├────────────────────────────────────────────────────────┤
-│ 🎓 Education     : Integrated M.Tech CSE               │
-│ 📅 Graduation    : 2027                               │
-│                                                        │
-│ 🤖 AI / ML       : ML • Deep Learning • LLM Security  │
-│ ✨ GenAI         : LLMs • RAG • Multi-Agent Systems   │
-│ 👁️ Vision       : OpenCV • YOLOv8 • TinyML            │
-│ 🔐 Security      : Blockchain • SHA-256 • Forensics  │
-│ ⚙️ Backend       : FastAPI • Redis • PostgreSQL       │
-│ 🚀 DevOps        : Docker • GitHub Actions • MLflow   │
-│ ☁️ Cloud         : AWS • Render • Vercel              │
-│ 💻 Languages     : Python • Java • SQL                 │
-│                                                        │
-│ 🎯 Goal          : AI/ML & Software Engineering       │
-└────────────────────────────────────────────────────────┘
+🔭 Building projects around AI/ML, LLM security, forecasting, and intelligent applications
 
-🛠️ Skills & Technologies
+🌱 Currently learning Generative AI, RAG, MLOps, AWS, and system design
 
-Programming
+🤝 Interested in collaborating on AI/ML and software projects
 
-Python Java SQL
+🧠 Interested in reliable, explainable, and deployable AI systems
 
-AI & Machine Learning
+⚙️ Enjoy working with Python, FastAPI, Docker, Redis, PostgreSQL, and GitHub Actions
 
-LSTM Autoencoders Graph Neural Networks XGBoost LightGBM Prophet SHAP Feature Engineering Model Evaluation
+📂 Most of my work is available here on GitHub
 
-Generative AI & NLP
+🌐 Portfolio: ravindranportfolio.netlify.app
 
-LLM Security Multi-Agent Systems Groq API Hugging Face Semantic Embeddings RAG Sentiment Analysis
+💼 LinkedIn: Ravindran M
 
-Computer Vision & Edge AI
+🛠️ Languages & Tools
 
-OpenCV YOLOv8 TinyML Object Detection Real-Time Detection ESP32-CAM
+Languages
 
-Blockchain & Security
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" alt="Python, Java, MySQL"/>
+</p>
 
-Blockchain Architecture SHA-256 Cryptographic Hashing Digital Forensics Role-Based Authentication Chain-of-Custody
+AI / ML
 
-Backend, DevOps & MLOps
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</p>
 
-FastAPI Redis PostgreSQL Docker Microservices REST APIs GitHub Actions MLflow CI/CD
+LSTM Autoencoders GNN XGBoost LightGBM Prophet SHAP Feature Engineering
 
-Frontend, Cloud & Tools
+Generative AI / NLP
 
-React Streamlit WebSockets AWS Git GitHub VS Code Jupyter Notebook Render Vercel Figma
+LLMs RAG LLM Security Multi-Agent Systems Groq API Hugging Face Semantic Embeddings Sentiment Analysis
 
-🚀 Featured Projects
+Computer Vision / Edge AI
 
-🧠 NeuroSentinel — AI Security for LLM Agents
+OpenCV YOLOv8 TinyML Object Detection ESP32-CAM
 
-A production-oriented AI security system for detecting compromised behavior in multi-agent LLM pipelines.
+Backend / DevOps / MLOps
 
-Highlights
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,redis,postgres,docker,githubactions" alt="FastAPI, Redis, PostgreSQL, Docker, GitHub Actions"/>
+</p>
 
-Built a dual-layer detection system using LSTM autoencoders + semantic drift, achieving 90.86% accuracy in the project evaluation.
+Microservices REST APIs CI/CD MLflow Performance Optimization
 
-Developed a FastAPI microservice with 9 REST endpoints, Redis state persistence, and Docker containerization.
+Frontend / Cloud / Tools
 
-Deployed the service on Render, with reported 300 ms response times and 99.9% uptime.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,aws,git,github,vscode" alt="React, HTML, CSS, JavaScript, AWS, Git, GitHub, VS Code"/>
+</p>
 
-Added Graph Neural Network (GNN) based compromise propagation tracking.
+Streamlit WebSockets Render Vercel Jupyter Notebook Figma
 
-Published a Python SDK to PyPI with a 1.0.0 release.
+🚀 My Projects
 
-Built an interactive React dashboard for real-time agent monitoring and attack simulation.
+🧠 NeuroSentinel
 
-Integrated Groq API for LLM inference and Hugging Face for semantic embeddings.
+AI Security for Multi-Agent LLM Pipelines
 
-Automated testing and deployment through GitHub Actions CI/CD.
+Dual-layer anomaly detection using LSTM autoencoders + semantic drift, with a production-oriented FastAPI service, Redis persistence, Docker deployment, GNN-based compromise tracking, React monitoring dashboard, Groq inference, Hugging Face embeddings, and a published Python SDK.
+
+Project highlights
+
+90.86% detection accuracy in project evaluation
+
+9 REST endpoints
+
+99.9% reported uptime
+
+PyPI SDK release
+
+GitHub Actions CI/CD
 
 🔗 View Repository
 
-⛓️ BlockchainVault — Digital Evidence Management
+⛓️ BlockchainVault
 
-A blockchain-based digital evidence management system designed for tamper-resistant storage, verification, and transparent chain-of-custody tracking.
+Blockchain-Based Digital Evidence Management System
 
-Highlights
+A secure evidence-management platform using SHA-256 hashing and immutable blockchain records for tamper-resistant storage, verification, authentication, and chain-of-custody tracking.
 
-Implemented SHA-256 hashing and immutable blockchain records for evidence integrity.
+Project highlights
 
-Added role-based authentication, duplicate evidence detection, and automated chain-of-custody tracking.
+Cryptographic integrity verification
 
-Built audit trails and cryptographic verification to reduce unauthorized modification risks.
+Role-based authentication
 
-Created a multi-page dashboard for evidence upload, verification, blockchain exploration, and analytics.
+Duplicate evidence detection
 
-Designed the system for use cases such as digital forensics, cybercrime investigation, and incident response.
+Audit trails and verification workflows
+
+Evidence and blockchain analytics dashboard
 
 🔗 View Repository
 
 📈 Investment & Sales Prediction Platform
 
-A multi-model forecasting and analytics platform for sales and market prediction.
+Multi-Model Forecasting & Analytics
 
-Highlights
+A forecasting platform combining XGBoost, Prophet, and LightGBM, with feature engineering, FastAPI services, Redis caching, PostgreSQL, Docker, Streamlit, MLflow, CI/CD, and multi-source data integration.
 
-Combined XGBoost, Prophet, and LightGBM with 50+ engineered features.
+Project highlights
 
-Reported 98.85% sales forecast accuracy and 98.62% stock prediction accuracy in the project evaluation.
+98.85% reported sales forecast accuracy
 
-Built a production-oriented FastAPI microservice with 12 REST endpoints, Redis caching, PostgreSQL persistence, and Docker.
+98.62% reported stock prediction accuracy
 
-Added an interactive Streamlit dashboard for real-time predictions.
+12 REST endpoints
 
-Implemented an algorithmic trading engine using RSI, MACD, Bollinger Bands, and adaptive ML strategies.
+MLflow experiment tracking
 
-Built an MLOps workflow using MLflow + GitHub Actions.
-
-Integrated multiple data sources including market, news, macroeconomic, and sentiment data.
+Algorithmic trading engine with RSI, MACD, and Bollinger Bands
 
 🔗 View Repository
 
 🛡️ AI Fraud Detection System
 
-An end-to-end fraud detection platform developed during my 6-month AI & Machine Learning internship.
+Machine Learning Internship Project
 
-Highlights
+An end-to-end fraud detection platform built during my AI & Machine Learning internship using behavioral feature engineering, XGBoost, SHAP explainability, FastAPI, Redis, and Streamlit.
 
-Achieved 96.8% ROC-AUC with reported 87 ms latency on 50K+ simulated daily transactions.
+Project highlights
 
-Engineered 12 behavioral features and used an XGBoost ensemble, improving fraud capture by 31% in the project evaluation.
+96.8% reported ROC-AUC
 
-Integrated SHAP explainability, reducing investigation time from 15 minutes to 2 minutes per alert.
+50K+ simulated daily transactions
 
-Built FastAPI microservices with Redis caching and reported 120 ms p95 latency with 8× throughput improvement.
+31% reported improvement in fraud capture
 
-Developed a Streamlit dashboard with real-time alerts, risk heatmaps, and automated mitigation workflows.
+Investigation time reduced from 15 minutes to 2 minutes per alert
+
+8× reported throughput improvement
 
 🐗 Wild Boar Detection & Alert System
 
-A computer-vision and edge-AI system for real-time wildlife monitoring.
+Computer Vision + TinyML
 
-Highlights
+A real-time wildlife monitoring system using YOLOv8, TinyML, and ESP32-CAM, with automated SMS alerts for intrusion detection in agricultural and forest environments.
 
-Built a YOLOv8-based wild boar detection system.
+💼 Internship
 
-Deployed the detection workflow on ESP32-CAM.
+AI & Machine Learning Intern
 
-Used TinyML edge inference for resource-constrained environments.
+Inventeron Technologies and Business Solutions LLP, Bangalore
 
-Added automated SMS alerts for intrusion detection.
+Jun 2025 – Dec 2025
 
-Designed for agricultural and forest monitoring use cases.
-
-💼 Internship Experience
-
-Inventeron Technologies and Business Solutions LLP — AI & Machine Learning Intern
-
-Bangalore | Jun 2025 – Dec 2025
-
-Worked on production-oriented machine learning systems and deployment workflows, including:
+Worked on production-oriented machine learning systems including:
 
 Fraud detection and behavioral analytics
 
-XGBoost-based modeling and feature engineering
+XGBoost modeling and feature engineering
 
 SHAP explainability
 
@@ -196,28 +196,26 @@ Redis caching
 
 Streamlit dashboards
 
-Performance optimization and deployment
+Deployment and performance optimization
 
-🏆 Key Achievements
+🏆 Achievements
 
-🤖 Built an AI security system for multi-agent LLMs with a PyPI SDK, production deployment, and reported 99.9% uptime.
-
-🔐 Developed a blockchain-based tamper-proof digital evidence management system with cryptographic integrity verification.
+🤖 Built an AI security system for multi-agent LLMs with production deployment and a published Python SDK.
 
 🛡️ Built an AI fraud detection platform reporting 96.8% ROC-AUC and 8× throughput improvement.
 
-📈 Developed a multi-model investment and sales prediction platform with reported 98%+ prediction accuracy across the evaluated tasks.
+🔐 Developed a blockchain-based digital evidence platform with cryptographic integrity verification.
 
-👁️ Built an edge-AI wildlife monitoring system using YOLOv8 + TinyML + ESP32-CAM.
+📈 Built a forecasting platform reporting 98%+ accuracy across the evaluated prediction tasks.
+
+👁️ Developed an edge-AI wildlife monitoring system using YOLOv8 + TinyML + ESP32-CAM.
 
 🎓 Education
 
-Sri Ramakrishna Engineering College — Coimbatore
+Sri Ramakrishna Engineering College
+Five-Year Integrated M.Tech in Computer Science Engineering
 
-Five-Year Integrated M.Tech Program — Computer Science Engineering
-
-2022 – 2027
-CGPA: 7.75 (till 8th semester)
+2022 – 2027 | CGPA: 7.75 (till 8th semester)
 
 📜 Certifications
 
@@ -235,30 +233,22 @@ CGPA: 7.75 (till 8th semester)
 
 👁️ OpenCV Bootcamp — OpenCV, 2026
 
-📊 GitHub Analytics
+📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ravindran-007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ravindran's GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindran-007&layout=compact&theme=tokyonight&hide_border=true" alt="Ravindran's most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ravindran-007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ravindran's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindran-007&layout=compact&theme=tokyonight&hide_border=true" alt="Ravindran's top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ravindran-007&theme=tokyonight&hide_border=true" alt="Ravindran's GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Ravindran-007&theme=tokyonight&hide_border=true" alt="Ravindran's contribution streak"/>
 </p>
 
-📚 Currently Learning
+🎯 Current Focus
 
-Generative AI RAG LLM Security Machine Learning Deep Learning MLOps AWS System Design Data Structures & Algorithms
+Generative AI RAG LLM Security Machine Learning MLOps AWS System Design DSA
 
-🎯 Career Focus
-
-I am preparing for opportunities in:
-
-AI / ML Engineering • Generative AI • Software Engineering • Backend Development • Cloud
-
-My focus is on building reliable, explainable, deployable AI systems and strengthening both machine-learning and software-engineering fundamentals.
-
-🌐 Find Me Online
+🤝 Let's Connect
 
 <p align="center">
   <a href="https://ravindranportfolio.netlify.app/">
