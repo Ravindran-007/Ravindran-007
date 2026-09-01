@@ -1,151 +1,252 @@
-# 👋 Hi, I'm Ravindran
+<!-- PROFILE HEADER -->
 
-### 🎓 Integrated M.Tech CSE Student | 🤖 AI/ML Enthusiast | 💻 Software Developer
+<p align="center">
 
-I am a Computer Science Engineering student passionate about building practical solutions using **Artificial Intelligence, Machine Learning, Generative AI, and Software Development**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Ravindran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Ravindran profile header"/>{=html}
 
-Currently exploring **Generative AI, RAG, Machine Learning, and AWS Cloud**, while building projects that solve real-world problems.
+</p>
 
----
+<h1 align="center">
 
-## 🚀 What I Do
+Hi 👋, I'm Ravindran
 
-- 🤖 Build AI/ML and intelligent applications
-- 🧠 Explore Generative AI and RAG systems
-- 💻 Develop practical software applications
-- ☁️ Learn and build with AWS Cloud
-- 🔍 Work with data, automation, and intelligent systems
-- 📚 Continuously improve my problem-solving and development skills
+</h1>
 
----
+<h3 align="center">
 
-## 🛠️ Tech Stack
+Integrated M.Tech CSE Student • AI/ML Enthusiast • Generative AI Learner
 
-### 💻 Programming
-`Python` `Java` `C` `SQL`
+</h3>
 
-### 🤖 AI & Machine Learning
-`Machine Learning` `Deep Learning` `Generative AI` `RAG`
+<p align="center">
 
-### 🌐 Development
-`HTML` `CSS` `JavaScript` `REST APIs`
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+practical+AI+%26+software+solutions;Exploring+Generative+AI+%26+RAG;Learning+Machine+Learning+%26+AWS;Turning+ideas+into+working+projects" alt="Typing animation"/>{=html}
 
-### ☁️ Cloud & Tools
-`AWS` `Git` `GitHub` `VS Code`
+</p>
 
----
+<p align="center">
 
-## ⭐ Featured Projects
+<a href="https://github.com/Ravindran-007">{=html}
+<img src="https://img.shields.io/github/followers/Ravindran-007?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/>{=html}
+</a>{=html}
+<a href="https://github.com/Ravindran-007?tab=repositories">{=html}
+<img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" alt="View repositories"/>{=html}
+</a>{=html}
 
-### 🧠 Neuro Sentinel
-**Dual-layer anomaly detection for multi-agent LLM pipelines**
+</p>
 
-An AI-focused project exploring reliability and anomaly detection in multi-agent LLM systems.
+👨‍💻 About Me
 
-**Focus:** Generative AI • LLMs • AI Agents • Anomaly Detection
+🎓 Currently pursuing a Five-Year Integrated M.Tech in Computer
+Science Engineering at Sri Ramakrishna Engineering College.
 
----
+🤖 Interested in Artificial Intelligence, Machine Learning, Generative
+AI, and RAG.
 
-### ⛓️ Blockchain Chain of Custody
+💻 Passionate about building practical software and AI-based
+projects that solve real-world problems.
 
-A blockchain-based system designed to provide secure and transparent tracking of records through an immutable chain of transactions.
+☁️ Currently learning and exploring AWS Cloud Computing.
 
-**Focus:** Python • Blockchain • Data Integrity
+🚀 My goal is to grow as an AI/ML Engineer and Software Developer by
+continuously building, learning, and experimenting.
 
----
+🧑‍💻 Developer Snapshot
 
-### 📈 Investment Prediction
+┌──────────────────────────────────────────────────────┐
+│                    RAVINDRAN                         │
+├──────────────────────────────────────────────────────┤
+│ 🎓 Education     : Integrated M.Tech CSE             │
+│ 📍 Institution    : Sri Ramakrishna Engineering      │
+│                     College                          │
+│                                                      │
+│ 🤖 Interests     : AI / ML / Generative AI / RAG     │
+│ 💻 Programming   : Python / Java / C / SQL           │
+│ ☁️ Cloud         : AWS                               │
+│ 🔧 Tools         : Git / GitHub / VS Code            │
+│                                                      │
+│ 🚀 Currently     : Building & Learning               │
+│ 🎯 Goal          : AI/ML & Software Engineering      │
+└──────────────────────────────────────────────────────┘
 
-A machine learning project focused on analysing investment-related data and generating predictive insights.
+🛠️ Tech Stack
 
-**Focus:** Python • Machine Learning • Data Analysis
+💻 Programming
 
----
+<p>
 
-### 🏥 Hospital Management System
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql" alt="Programming technologies"/>{=html}
 
-A web-based application designed to manage hospital-related information and streamline common management operations.
+</p>
 
-**Focus:** HTML • Web Development • Database Concepts
+🤖 AI & Machine Learning
 
----
+<p>
 
-### 🌿 Virtual Herbal Garden
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>{=html}
 
-An interactive web project for exploring medicinal plants and learning about their uses and characteristics.
+</p>
 
-**Focus:** JavaScript • HTML • CSS • Web Development
+Machine Learning • Deep Learning • Generative AI • RAG
 
----
+🌐 Development
 
-## 📚 Currently Learning
+<p>
 
-- 🤖 Generative AI
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🧠 Machine Learning & Deep Learning
-- ☁️ AWS Cloud Services
-- 🧩 Data Structures & Algorithms
-- 🔧 AI-powered application development
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web technologies"/>{=html}
 
----
+</p>
 
-## 🎓 Education
+REST APIs • Web Development
 
-**Five-Year Integrated M.Tech in Computer Science Engineering**
+☁️ Cloud & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="Cloud and development tools"/>{=html}
+
+</p>
+
+🚀 Featured Projects
+
+🧠 Neuro Sentinel
+
+AI-powered anomaly detection for multi-agent LLM pipelines
+
+Exploring intelligent monitoring and anomaly detection approaches for
+modern multi-agent AI systems.
+
+Focus: Generative AI LLMs AI Agents Anomaly Detection
+
+🔗 View Project
+
+⛓️ Blockchain Chain of Custody
+
+A blockchain-based solution designed to provide secure, transparent,
+and tamper-resistant tracking of records.
+
+Focus: Python Blockchain Data Integrity
+
+🔗 View
+Project
+
+📈 Investment Prediction
+
+A machine-learning project focused on analysing investment-related data
+and generating predictive insights.
+
+Focus: Python Machine Learning Data Analysis
+
+🔗 View Project
+
+🏥 Hospital Management System
+
+A software application designed to manage hospital-related information
+and streamline common management operations.
+
+Focus: Web Development Database Software Development
+
+🔗 View
+Project
+
+🌿 Virtual Herbal Garden
+
+An interactive web application for exploring medicinal plants and
+learning about their uses and characteristics.
+
+Focus: HTML CSS JavaScript Web Development
+
+🔗 View
+Project
+
+📚 Currently Learning
+
+🤖 Generative AI
+🔎 Retrieval-Augmented Generation (RAG)
+🧠 Machine Learning & Deep Learning
+☁️ AWS Cloud Services
+🧩 Data Structures & Algorithms
+🔧 AI-powered Application Development
+
+🎓 Education
 
 Sri Ramakrishna Engineering College
 
----
+Five-Year Integrated M.Tech in Computer Science Engineering
 
-## 🏆 Learning & Certifications
+📅 Expected Graduation: 2027
 
-- ☁️ AWS Cloud Practitioner Essentials — Completed
-- 🤖 Continuously learning AI/ML and Generative AI technologies
+🏆 Certifications & Learning
 
----
+☁️ AWS Cloud Practitioner Essentials --- Completed
 
-## 📊 GitHub Activity
+🤖 Generative AI --- Ongoing Learning
+
+🧠 Machine Learning --- Ongoing Learning
+
+☁️ AWS Cloud --- Ongoing Learning
+
+📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ravindran-007&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindran-007&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ravindran-007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ravindran's GitHub statistics"/>{=html}
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindran-007&layout=compact&theme=tokyonight&hide_border=true" alt="Ravindran's most used languages"/>{=html}
 
 </p>
 
----
-
-## 🎯 2026–2027 Goals
-
-- 🚀 Build production-quality AI/ML projects
-- 🤖 Develop practical Generative AI applications
-- ☁️ Strengthen AWS and cloud development skills
-- 🧠 Improve DSA and problem-solving
-- 💼 Prepare for AI/ML and Software Engineering opportunities
-- 🌐 Contribute to meaningful open-source projects
-
----
-
-## 🤝 Let's Connect
-
 <p align="center">
 
-<a href="https://github.com/Ravindran-007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Add your LinkedIn below -->
-<!--
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
--->
+<img src="https://streak-stats.demolab.com/?user=Ravindran-007&theme=tokyonight&hide_border=true" alt="Ravindran's GitHub contribution streak"/>{=html}
 
 </p>
 
----
+🎯 2026--2027 Goals
+
+🤖 Build production-oriented AI/ML projects
+
+🧠 Develop practical Generative AI applications
+
+🔎 Build and understand RAG-based systems
+
+☁️ Strengthen AWS Cloud skills
+
+🧩 Improve Data Structures & Algorithms
+
+🚀 Contribute to open-source projects
+
+💼 Prepare for AI/ML & Software Engineering opportunities
+
+🤝 Let's Connect
 
 <p align="center">
+
+<a href="https://github.com/Ravindran-007">{=html}
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>{=html}
+</a>{=html}
+
+<!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile URL -->
+
+<a href="YOUR_LINKEDIN_URL">{=html}
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>{=html}
+</a>{=html}
+
+</p>
+
+<p align="center">
+
+<i>{=html}"Learning. Building. Improving. 🚀"</i>{=html}
+
+</p>
+
+<p align="center">
+
 ⭐ Thanks for visiting my profile!
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" alt="Profile footer"/>{=html}
+
 </p>
