@@ -37,53 +37,33 @@
 
 🧑‍💻 Developer Snapshot
 
-
-
-
-
-🎓 Education
-
-Integrated M.Tech CSE
-
-📍 Institution
-
-Sri Ramakrishna Engineering College
-
-🤖 Interests
-
-AI / ML / Generative AI / RAG
-
-💻 Programming
-
-Python / Java / C / SQL
-
-☁️ Cloud
-
-AWS
-
-🔧 Tools
-
-Git / GitHub / VS Code
-
-🚀 Currently
-
-Building & Learning
-
-🎯 Goal
-
-AI/ML & Software Engineering
+┌──────────────────────────────────────────────────────┐
+│                    RAVINDRAN                         │
+├──────────────────────────────────────────────────────┤
+│ 🎓 Education     : Integrated M.Tech CSE             │
+│ 📍 Institution    : Sri Ramakrishna Engineering      │
+│                     College                          │
+│                                                      │
+│ 🤖 Interests     : AI / ML / Generative AI / RAG     │
+│ 💻 Programming   : Python / Java / C / SQL           │
+│ ☁️ Cloud         : AWS                               │
+│ 🔧 Tools         : Git / GitHub / VS Code            │
+│                                                      │
+│ 🚀 Currently     : Building & Learning               │
+│ 🎯 Goal          : AI/ML & Software Engineering      │
+└──────────────────────────────────────────────────────┘
 
 🛠️ Tech Stack
 
 💻 Programming
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,mysql" alt="Programming technologies"/>
 </p>
 
 🤖 AI & Machine Learning
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 </p>
 
@@ -91,7 +71,7 @@ Machine Learning • Deep Learning • Generative AI • RAG
 
 🌐 Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web technologies"/>
 </p>
 
@@ -99,95 +79,30 @@ REST APIs • Web Development
 
 ☁️ Cloud & Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="Cloud and development tools"/>
 </p>
-
-🚀 Featured Projects
-
-🧠 Neuro Sentinel
-
-AI-powered anomaly detection for multi-agent LLM pipelines
-
-Exploring intelligent monitoring and anomaly detection approaches for modern multi-agent AI systems.
-
-Focus: Generative AI LLMs AI Agents Anomaly Detection
-
-🔗 View Project
-
-⛓️ Blockchain Chain of Custody
-
-A blockchain-based solution designed to provide secure, transparent, and tamper-resistant tracking of records.
-
-Focus: Python Blockchain Data Integrity
-
-🔗 View Project
-
-📈 Investment Prediction
-
-A machine-learning project focused on analysing investment-related data and generating predictive insights.
-
-Focus: Python Machine Learning Data Analysis
-
-🔗 View Project
-
-🏥 Hospital Management System
-
-A software application designed to manage hospital-related information and streamline common management operations.
-
-Focus: Web Development Database Software Development
-
-🔗 View Project
-
-🌿 Virtual Herbal Garden
-
-An interactive web application for exploring medicinal plants and learning about their uses and characteristics.
-
-Focus: HTML CSS JavaScript Web Development
-
-🔗 View Project
-
-📚 Currently Learning
-
-🤖 Generative AI
-
-🔎 Retrieval-Augmented Generation (RAG)
-
-🧠 Machine Learning & Deep Learning
-
-☁️ AWS Cloud Services
-
-🧩 Data Structures & Algorithms
-
-🔧 AI-powered Application Development
-
-🎓 Education
-
-Sri Ramakrishna Engineering College
-
-Five-Year Integrated M.Tech in Computer Science Engineering
-
-📅 Expected Graduation: 2027
-
-🏆 Certifications & Learning
-
-☁️ AWS Cloud Practitioner Essentials — Completed
-
-🤖 Generative AI — Ongoing Learning
-
-🧠 Machine Learning — Ongoing Learning
-
-☁️ AWS Cloud — Ongoing Learning
 
 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ravindran-007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ravindran's GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindran-007&layout=compact&theme=tokyonight&hide_border=true" alt="Ravindran's most used languages"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Ravindran-007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Ravindran's GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindran-007&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Ravindran's most used languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ravindran-007&theme=tokyonight&hide_border=true" alt="Ravindran's GitHub contribution streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Ravindran-007&theme=tokyonight&hide_border=true"
+    alt="Ravindran's GitHub contribution streak"
+  />
 </p>
 
 🎯 2026–2027 Goals
@@ -210,18 +125,21 @@ Five-Year Integrated M.Tech in Computer Science Engineering
 
 <p align="center">
   <a href="https://github.com/Ravindran-007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
-
-  <!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile URL -->
-
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ravindran-m-0395b7264/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
 <p align="center">
-  <i>Learning. Building. Improving. 🚀</i>
+  <i>"Learning. Building. Improving. 🚀"</i>
 </p>
 
 <p align="center">
@@ -229,5 +147,8 @@ Five-Year Integrated M.Tech in Computer Science Engineering
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" alt="Profile footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer"
+    alt="Profile footer"
+  />
 </p>
