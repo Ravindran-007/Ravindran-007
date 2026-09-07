@@ -45,7 +45,7 @@
 💻 Programming
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" alt="Programming technologies"/>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" alt="Programming technologies"/>
 </p>
 
 🤖 AI & Machine Learning
