@@ -51,7 +51,7 @@
 🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python,TensorFlow,PyTorch,Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 </p>
 
 Machine Learning • Deep Learning • Generative AI • RAG
